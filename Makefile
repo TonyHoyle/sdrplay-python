@@ -7,4 +7,4 @@ mir_sdr.so: mir_sdr_module.cc
 	python setup.py build_ext --inplace
 	
 clean:
-	rm *.cc *.so
+	rm *.c *.so

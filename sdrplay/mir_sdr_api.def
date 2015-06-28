@@ -1,0 +1,16 @@
+LIBRARY mir_sdr_api
+
+EXPORTS
+mir_sdr_ApiVersion
+mir_sdr_Init
+mir_sdr_ReadPacket
+mir_sdr_ResetUpdateFlags
+mir_sdr_SetDcMode
+mir_sdr_SetDcTrackTime
+mir_sdr_SetFs
+mir_sdr_SetGr
+mir_sdr_SetGrParams
+mir_sdr_SetRf
+mir_sdr_SetSyncUpdatePeriod
+mir_sdr_SetSyncUpdateSampleNum
+mir_sdr_Uninit
