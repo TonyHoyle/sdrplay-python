@@ -1,1 +1,3 @@
 build/
+mir_sdr_module.cc
+mir_sdr.py

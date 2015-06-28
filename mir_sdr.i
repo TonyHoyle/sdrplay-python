@@ -2,8 +2,8 @@
 
 %{
 #include <stdlib.h>
-#include "SDRPlay/mir_sdr.h"
+#include "sdrplay/mir_sdr.h"
 %}
 
 #define STATIC_LIB
-%include "SDRPlay/mir_sdr.h"
+%include "sdrplay/mir_sdr.h"
