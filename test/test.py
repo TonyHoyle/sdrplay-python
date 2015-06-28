@@ -1,4 +1,4 @@
-from _mir_sdr import mir_sdr_ApiVersion
+from mir_sdr import mir_sdr_ApiVersion
 
 print(mir_sdr_ApiVersion())
 
