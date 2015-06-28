@@ -1,4 +1,3 @@
-#from distutils.core import Extension
 from setuptools import setup, Extension
 
 # the c++ extension module
